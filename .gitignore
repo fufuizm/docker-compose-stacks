@@ -1,0 +1,24 @@
+# Environment
+.env
+*.env.local
+
+# Data volumes
+data/
+volumes/
+
+# Secrets
+secrets/
+acme.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
